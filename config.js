@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "I want to say something with u",
     introTitle: 'Hi Thu Chemm',
-    introDesc: `Mưa ngấm vào đất`
-    `Ngấm ngầm cho cây`
-    `Mình cũng ngất ngây`
-    `Ngấm vào ai đấy`,
+    introDesc: `Mưa ngấm vào đất
+    Ngấm ngầm cho cây
+    Mình cũng ngất ngây
+    Ngấm vào ai đấy`,
     btnIntro: ':)) Thì là zậy đó',
     title: 'Dẫu anh không là chàng hoàng tử mà em đắm say', 
             'Chỉ đơn giản thôi như hình hài anh lúc này',
@@ -17,4 +17,4 @@ const CONFIG = {
     mess: 'Socola thì ngọt; Còn em thì ngọt hơn; Nếu em cũng có ý; Thì mình hết cô đơn. ❤😎',
     messDesc: 'Xin phép được chở em đi học từ thứ hai nhé :> ',
     btnAccept: 'Dạ zângg',
-    messLink: 'https://www.facebook.com/messages/t/100020801720912' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100020801720912',
